@@ -113,7 +113,7 @@ Bia pv]]).."",1,"md")end end end end;function check_link(t,u,z)if u.is_group_ or
 `/contactlist`
 دريافت مخاطبان ذخيره شده توسط ربات
 `/send (filename)`
-دریافت فایل های سرور از پوشه SirAds
+دریافت فایل های سرور از پوشه sirads
 `/dlmusic (link)`
 دریافت اهنگ از لینک
 `/serverinfo`
